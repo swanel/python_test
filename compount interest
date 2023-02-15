@@ -16,7 +16,7 @@ print ("hello world test")
  
 # Driver Code
 #Taking input from user.
-principal = int(input("Enter the principal amount: "))
+#principal = int(input("Enter the principal amount: "))
 #rate = int(input("Enter rate of interest: "))
 #time = int(input("Enter time in years: " ))
 #Function Call
